@@ -1,4 +1,5 @@
 # Simple Website Project
+Basic website for Industrial Organization and Management. 
 
 ## Members
 -Raymar Sulib
@@ -31,3 +32,4 @@ This project was created as part of our Industrial Organization and Management s
 
 ## Purpose of the Activity
 This activity aims to help students understand GitHub operations such as commit, push, pull, branching, and pull requests, which are commonly used in real-world software development.
+
