@@ -2,8 +2,8 @@
 Basic website for Industrial Organization and Management. 
 
 ## Members
--Raymar Sulib
--Francisco Lumen Jr.
+- Raymar Sulib
+- Francisco Lumen Jr.
 - John Carlo Gacud
 - Meline Fuentes
 - Ivyn Ester Matugas
