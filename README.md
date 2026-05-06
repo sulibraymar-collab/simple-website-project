@@ -10,7 +10,7 @@ Basic website for Industrial Organization and Management.
 - Kyle John Batoon
 - Nelchie Ann Suico
 
-  ## Project Description
+## Project Description
 This project was created as part of our Industrial Organization and Management subject. It demonstrates how students collaborate using GitHub in a real-world development environment.
 
 ## Features
